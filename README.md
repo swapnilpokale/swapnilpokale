@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Data Structures and Algorithms,Web Developement**
 
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently learning **Web Technologies**
 
 - 🤝 I’m looking for **New Opportunities for work**
 
