@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Swapnil Pokale</h1>
 <h3 align="center">A passionate software engineer developer from India</h3>
 
+<img align="right" width="400" src="https://github.com/swapnilpokale/swapnilpokale/assets/97501315/6f7dc2b3-7ee1-4e6d-9f1b-7d9a154c65c5"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilpokale&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilpokale" /> </p>
 
 - 🔭 I’m honing my **DSA Skills**
